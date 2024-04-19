@@ -103,3 +103,7 @@ git add .
 git commit -m "Updated database"
 git push
 ```
+
+Then launch the build process by going to the page for your server on the
+Render dashboard, clicking the "Manual Deploy" button in the upper right corner
+of the page, and selecting "Deploy latest commit."
