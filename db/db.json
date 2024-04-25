@@ -250,5 +250,7 @@
       "image": "images/20-purpleshirt.jpg",
       "rating": 4
     }
-  ]
+  ],
+
+  "cart": []
 }
