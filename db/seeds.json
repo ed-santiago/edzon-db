@@ -50,7 +50,7 @@
     },
     {
       "id": 5,
-      "title": "Dragon Chain Bracelet",
+      "title": "Dragon Bracelet",
       "price": {
         "originalPrice": 200,
         "salePrice": 180
@@ -228,7 +228,7 @@
     },
     {
       "id": 19,
-      "title": "Opna Sleeve Moisture",
+      "title": "Opna Moisture",
       "price": {
         "originalPrice": 170,
         "salePrice": 136
@@ -240,7 +240,7 @@
     },
     {
       "id": 20,
-      "title": "DANVOUY Cotton Shirt",
+      "title": "DANVOUY Shirt",
       "price": {
         "originalPrice": 140,
         "salePrice": 112
